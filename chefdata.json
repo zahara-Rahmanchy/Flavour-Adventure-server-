@@ -1,6 +1,6 @@
 [
   {
-    "chef_picture": "https://example.com/chef1.png",
+    "chef_picture": "https://images.unsplash.com/photo-1576237680582-75be01432ca6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
     "chef_name": "Juan Rodriguez",
     "years_of_experience": 15,
     "num_of_recipes": 80,
@@ -48,7 +48,7 @@
     ]
   },
   {
-    "chef_picture": "https://example.com/chef2.png",
+    "chef_picture": "https://images.unsplash.com/photo-1541614101331-1a5a3a194e92?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=465&q=80",
     "chef_name": "Elena Ramirez",
     "years_of_experience": 12,
     "num_of_recipes": 60,
@@ -84,7 +84,8 @@
     ]
   },
   {
-    "chef_picture": "https://example.com/chef3.png",
+    "chef_picture": "https://images.unsplash.com/photo-1601341348280-550b5e87281b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+
     "chef_name": "Luis Torres",
     "years_of_experience": 8,
     "num_of_recipes": 40,
@@ -114,7 +115,7 @@
     ]
   },
   {
-    "chef_picture": "https://example.com/chef4.png",
+    "chef_picture": "https://plus.unsplash.com/premium_photo-1676996177410-d360bcf94bc0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80",
     "chef_name": "Ana Hernandez",
     "years_of_experience": 20,
     "num_of_recipes": 100,
@@ -156,7 +157,7 @@
     ]
   },
   {
-    "chef_picture": "https://example.com/chef5.png",
+    "chef_picture": "https://images.unsplash.com/photo-1581349485608-9469926a8e5e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80",
     "chef_name": "Miguel Rodriguez",
     "years_of_experience": 12,
     "num_of_recipes": 60,
@@ -198,7 +199,7 @@
     ]
   },
   {
-    "chef_picture": "https://example.com/chef6.png",
+    "chef_picture": "https://images.unsplash.com/photo-1667899827540-e06edbb2272d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
     "chef_name": "Rosa Martinez",
     "years_of_experience": 15,
     "num_of_recipes": 80,
