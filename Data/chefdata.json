@@ -19,7 +19,8 @@
           "corn tortillas"
         ],
         "cooking_method": "Grill the pork and pineapple, sauté the onions, chop the cilantro, and assemble the tacos with the tortillas",
-        "rating": 4.5
+        "rating": 4.5,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1681406994990-e16f7e02e027?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
       },
       {
         "recipe_name": "Enchiladas Verdes",
@@ -31,7 +32,8 @@
           "queso fresco"
         ],
         "cooking_method": "Cook the chicken, blend the tomatillos and onions into a sauce, fill the tortillas with the chicken and cheese, pour the sauce on top and bake",
-        "rating": 4.8
+        "rating": 4.8,
+        "recipe_image": "https://images.unsplash.com/photo-1570481060336-9c82d078588e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
       },
       {
         "recipe_name": "Chiles Rellenos",
@@ -61,13 +63,15 @@
         "recipe_name": "Guacamole",
         "ingredients": ["avocado", "lime", "tomato", "onion", "jalapeño"],
         "cooking_method": "Mash the avocado, add the lime juice, diced tomato, chopped onion and jalapeño, mix well and serve with tortilla chips",
-        "rating": 4.7
+        "rating": 4.7,
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1681406689566-ff55b3970c07?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
       },
       {
         "recipe_name": "Ceviche",
         "ingredients": ["shrimp", "lime", "onion", "tomato", "cilantro"],
         "cooking_method": "Cook the shrimp, chop them into small pieces, add lime juice, diced onion, tomato and cilantro, mix well and chill for at least 30 minutes",
-        "rating": 4.9
+        "rating": 4.9,
+        "recipe_image": "https://images.unsplash.com/photo-1626663011519-b42e5ee10056?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
       },
       {
         "recipe_name": "Mole Poblano",
@@ -104,7 +108,8 @@
         "recipe_name": "Tamales",
         "ingredients": ["corn masa", "pork", "salsa", "corn husks", "water"],
         "cooking_method": "Soak the corn husks, spread the masa, add the pork and salsa, fold and steam the tamales until cooked",
-        "rating": 4.7
+        "rating": 4.7,
+        "recipe_image": "https://images.unsplash.com/photo-1552332386-1634d96809cf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80"
       },
       {
         "recipe_name": "Churros",
