@@ -5,7 +5,7 @@
     "years_of_experience": 15,
     "num_of_recipes": 80,
     "likes": 2000,
-
+    "description": "¡Hola! I am Ana Hernandez and I am a chef from Mexico. I have been passionate about cooking since I was a little girl, and have since honed my skills to become a renowned chef. My specialty lies in traditional Mexican cuisine, and I love to experiment with new flavors and ingredients to bring a unique twist to classic dishes. I have worked in several restaurants across Mexico, and have also been invited to showcase my culinary skills at international food festivals. I believe that cooking is an art, and I put my heart and soul into every dish I make.",
     "cuisine": "Mexican",
     "chef_id": "10001",
     "recipes": [
@@ -51,11 +51,11 @@
   },
   {
     "chef_picture": "https://images.unsplash.com/photo-1541614101331-1a5a3a194e92?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=465&q=80",
-    "chef_name": "Elena Ramirez",
+    "chef_name": "Carlos Rodriguez",
     "years_of_experience": 12,
     "num_of_recipes": 60,
     "likes": 1500,
-
+    "description": "Buenos días! My name is Carlos Rodriguez, and I am a Mexican chef who has a deep love for food. My passion for cooking started at a young age when I would help my mother in the kitchen. I specialize in creating dishes that blend traditional Mexican flavors with modern techniques. I have had the opportunity to work in several restaurants and have even started my own catering business. My goal is to share my love for Mexican cuisine with the world and to showcase the diversity and richness of the country's culinary heritage.",
     "cuisine": "Mexican",
     "chef_id": "10002",
     "recipes": [
@@ -90,11 +90,11 @@
   {
     "chef_picture": "https://images.unsplash.com/photo-1601341348280-550b5e87281b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
 
-    "chef_name": "Luis Torres",
+    "chef_name": "Jorge Garcia",
     "years_of_experience": 8,
     "num_of_recipes": 40,
     "likes": 1200,
-
+    "description": "Hola, soy Jorge Garcia, a Mexican chef with a passion for traditional cuisine. I grew up in a family of cooks, and since I was a child, I have been fascinated by the flavors and aromas of Mexican food. I specialize in creating authentic dishes that showcase the diversity and richness of Mexico's culinary heritage. I have worked in several restaurants across the country and have also been invited to showcase my skills at international food festivals. I believe that food is a way to connect with people, and I love nothing more than sharing my passion for Mexican cuisine with others.",
     "cuisine": "Mexican",
     "chef_id": "10003",
     "recipes": [
@@ -125,7 +125,7 @@
     "years_of_experience": 20,
     "num_of_recipes": 100,
     "likes": 2500,
-
+    "description": "¡Hola! My name is Juan Rodriguez, and I am a Mexican chef with a passion for fusion cuisine. I love experimenting with different flavors and ingredients to create dishes that blend Mexican and international flavors. I have worked in several restaurants across Mexico and have also had the opportunity to showcase my culinary skills at international food festivals. I believe that cooking is a way to express oneself, and I always put my heart and soul into every dish I create.",
     "cuisine": "Mexican",
     "chef_id": "10004",
     "recipes": [
@@ -163,11 +163,11 @@
   },
   {
     "chef_picture": "https://images.unsplash.com/photo-1581349485608-9469926a8e5e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80",
-    "chef_name": "Miguel Rodriguez",
+    "chef_name": "Miguel Lopez",
     "years_of_experience": 12,
     "num_of_recipes": 60,
     "likes": 1800,
-
+    "description": "Hola amigos, I am Miguel Lopez, a Mexican chef with a passion for street food. I grew up in a family of street food vendors, and since I was a child, I have been fascinated by the flavors and aromas of Mexican street food. I specialize in creating authentic dishes that capture the essence of Mexican street food. I have worked in several restaurants across the country and have also started my own street food business. I believe that street food is an essential part of Mexican culture, and I am committed to preserving and showcasing it to the world.",
     "cuisine": "Mexican",
     "chef_id": "10005",
     "recipes": [
@@ -209,7 +209,7 @@
     "years_of_experience": 15,
     "num_of_recipes": 80,
     "likes": 2000,
-
+    "description": "¡Hola amigos! I am Rosa Martinez, a Mexican chef who is dedicated to creating delicious and nutritious meals. My passion for cooking started when I was a child, and since then, I have honed my skills to create dishes that not only taste amazing but are also healthy. I specialize in creating plant-based meals that are packed with flavor and nutrients. I have worked in several restaurants across Mexico and have even published a cookbook. My aim is to show that healthy eating can be delicious and enjoyable, and that Mexican cuisine has a lot to offer in this regard",
     "cuisine": "Mexican",
     "chef_id": "10006",
     "recipes": [
