@@ -1,7 +1,7 @@
 [
   {
-    "chef_picture": "https://images.unsplash.com/photo-1576237680582-75be01432ca6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
-    "chef_name": "Juan Rodriguez",
+    "chef_picture": "https://plus.unsplash.com/premium_photo-1676996177410-d360bcf94bc0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80",
+    "chef_name": "Ana Hernandez",
     "years_of_experience": 15,
     "num_of_recipes": 80,
     "likes": 2000,
@@ -120,8 +120,8 @@
     ]
   },
   {
-    "chef_picture": "https://plus.unsplash.com/premium_photo-1676996177410-d360bcf94bc0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80",
-    "chef_name": "Ana Hernandez",
+    "chef_picture": "https://plus.unsplash.com/premium_photo-1661637755478-1e3ce2a0706a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "chef_name": "Juan Rodriguez",
     "years_of_experience": 20,
     "num_of_recipes": 100,
     "likes": 2500,
